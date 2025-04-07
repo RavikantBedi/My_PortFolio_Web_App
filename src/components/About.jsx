@@ -47,11 +47,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a student of Madan Mohan Malviya University of Technology,persuing Computer Science
-         and Engineering and I have learn technology like JavaScript,Typescript and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with friends to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Hi! I’m a 2rd-year B.Tech Computer Science student with a strong interest in DSA and web development and building real-world projects. I've been working with JavaScript, TypeScript, and frameworks like React and Node.js, focusing on creating clean, user-friendly, and scalable web applications.
+I'm always curious to learn new things and enjoy collaborating with others to bring creative ideas to life through code. Whether it's a simple app or a complex project, I'm all about writing efficient code and continuously improving.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

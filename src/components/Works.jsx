@@ -80,11 +80,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
-          ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+         "These projects demonstrate my practical skills and hands-on experience as a passionate B.Tech CSE student. Each project highlights my ability to tackle complex challenges and develop responsive, scalable web applications using modern technologies like Next.js, React.js, and Tailwind CSS. Dive into the code repositories and live demos to see how I bring innovative ideas to life."
         </motion.p>
       </div>
 
